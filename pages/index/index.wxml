@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <treeSelect model='{{selectArray}}' bind:tapitem='tapItem'></treeSelect>
+</view>
